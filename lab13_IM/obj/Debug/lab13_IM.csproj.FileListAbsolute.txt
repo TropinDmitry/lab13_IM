@@ -1,0 +1,11 @@
+I:\lab13_IM\lab13_IM\bin\Debug\Cur.exe.config
+I:\lab13_IM\lab13_IM\bin\Debug\Cur.exe
+I:\lab13_IM\lab13_IM\bin\Debug\Cur.pdb
+I:\lab13_IM\lab13_IM\obj\Debug\lab13_IM.csproj.AssemblyReference.cache
+I:\lab13_IM\lab13_IM\obj\Debug\lab13_IM.csproj.SuggestedBindingRedirects.cache
+I:\lab13_IM\lab13_IM\obj\Debug\lab13.Form1.resources
+I:\lab13_IM\lab13_IM\obj\Debug\Cur.Properties.Resources.resources
+I:\lab13_IM\lab13_IM\obj\Debug\lab13_IM.csproj.GenerateResource.cache
+I:\lab13_IM\lab13_IM\obj\Debug\lab13_IM.csproj.CoreCompileInputs.cache
+I:\lab13_IM\lab13_IM\obj\Debug\Cur.exe
+I:\lab13_IM\lab13_IM\obj\Debug\Cur.pdb

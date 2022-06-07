@@ -1,0 +1,41 @@
+C:\Users\smois\source\repos\Cur\bin\Debug\Cur.exe.config
+C:\Users\smois\source\repos\Cur\bin\Debug\Cur.exe
+C:\Users\smois\source\repos\Cur\bin\Debug\Cur.pdb
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.csprojAssemblyReference.cache
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.Form1.resources
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.Properties.Resources.resources
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.csproj.GenerateResource.cache
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.csproj.CoreCompileInputs.cache
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.exe
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.pdb
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\bin\Debug\Cur.exe.config
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\bin\Debug\Cur.exe
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\bin\Debug\Cur.pdb
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\obj\Debug\Cur.csprojAssemblyReference.cache
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\obj\Debug\Cur.Form1.resources
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\obj\Debug\Cur.Properties.Resources.resources
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\obj\Debug\Cur.csproj.GenerateResource.cache
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\obj\Debug\Cur.csproj.CoreCompileInputs.cache
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\obj\Debug\Cur.exe
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Cur\Cur\obj\Debug\Cur.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\obj\Debug\Cur.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\obj\Debug\Cur.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\obj\Debug\Cur.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\obj\Debug\Cur.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\obj\Debug\Cur.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\obj\Debug\Cur.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\obj\Debug\Cur.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\bin\Debug\Cur.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\bin\Debug\Cur.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba4\Taya\Taya\Cur\bin\Debug\Cur.pdb
+I:\Taya\Cur\bin\Debug\Cur.exe.config
+I:\Taya\Cur\bin\Debug\Cur.exe
+I:\Taya\Cur\bin\Debug\Cur.pdb
+I:\Taya\Cur\obj\Debug\Cur.csproj.AssemblyReference.cache
+I:\Taya\Cur\obj\Debug\Cur.csproj.SuggestedBindingRedirects.cache
+I:\Taya\Cur\obj\Debug\Cur.Form1.resources
+I:\Taya\Cur\obj\Debug\Cur.Properties.Resources.resources
+I:\Taya\Cur\obj\Debug\Cur.csproj.GenerateResource.cache
+I:\Taya\Cur\obj\Debug\Cur.csproj.CoreCompileInputs.cache
+I:\Taya\Cur\obj\Debug\Cur.exe
+I:\Taya\Cur\obj\Debug\Cur.pdb
